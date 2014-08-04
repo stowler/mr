@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/vcsh-sdt-vim.git]
+checkout = vcsh clone https://github.com/stowler/vcsh-sdt-vim.git vcsh-sdt-vim 
