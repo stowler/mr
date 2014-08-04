@@ -1,0 +1,12 @@
+*
+!/.config
+!/.config/mr
+!/.config/mr/available.d
+!/.config/mr/available.d/mr.vcsh
+!/.config/mr/available.d/vcsh-sdt-tmux.vcsh
+!/.config/mr/available.d/vcsh-sdt-vim.vcsh
+!/.config/mr/config.d
+!/.config/mr/config.d/mr.vcsh
+!/.config/mr/config.d/vcsh-sdt-tmux.vcsh
+!/.config/mr/config.d/vcsh-sdt-vim.vcsh
+!/.mrconfig
