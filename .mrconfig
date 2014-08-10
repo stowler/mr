@@ -6,3 +6,6 @@ include = cat ~/.config/mr/config.d/*
 
 [$HOME/gitRepos/proj.stran.thesis]
 checkout = git clone 'https://github.com/CVNRneuroimaging/proj.stran.thesis.git' 'proj.stran.thesis'
+
+[$HOME/gitRepos/proj.mh.cda2.omt]
+checkout = git clone 'https://github.com/CVNRneuroimaging/proj.mh.cda2.omt.git' 'proj.mh.cda2.omt'
