@@ -3,3 +3,6 @@ git_gc = git gc "$@"
 jobs = 5
 
 include = cat ~/.config/mr/config.d/*
+
+[$HOME/gitRepos/proj.stran.thesis]
+checkout = git clone 'https://github.com/CVNRneuroimaging/proj.stran.thesis.git' 'proj.stran.thesis'
