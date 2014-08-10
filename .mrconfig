@@ -13,6 +13,9 @@ checkout = git clone 'https://github.com/stowler/helloFMRI.git' 'helloFMRI'
 [$HOME/gitRepos/stowlerGeneralComputing]
 checkout = git clone 'https://github.com/stowler/stowlerGeneralComputing.git' 'stowlerGeneralComputing'
 
+[$HOME/gitRepos/stowlerTemplates]
+checkout = git clone 'https://github.com/stowler/stowlerTemplates.git' 'stowlerTemplates'
+
 [$HOME/gitRepos/infrastructure]
 checkout = git clone 'https://github.com/CVNRneuroimaging/infrastructure.git' 'infrastructure'
 
