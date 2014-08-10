@@ -12,3 +12,6 @@ checkout = git clone 'https://github.com/CVNRneuroimaging/proj.mh.cda2.omt.git' 
 
 [$HOME/gitRepos/helloFMRI]
 checkout = git clone 'https://github.com/stowler/helloFMRI.git' 'helloFMRI'
+
+[$HOME/gitRepos/infrastructure]
+checkout = git clone 'https://github.com/CVNRneuroimaging/infrastructure.git' 'infrastructure'
