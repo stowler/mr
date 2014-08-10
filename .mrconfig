@@ -28,4 +28,5 @@ checkout = git clone 'https://github.com/CVNRneuroimaging/proj.bc.haylingRedux.g
 [$HOME/gitRepos/proj.ag.diss.r21ad]
 checkout = git clone 'https://github.com/CVNRneuroimaging/proj.ag.diss.r21ad.git' 'proj.ag.diss.r21ad'
 
-
+[$HOME/gitRepos/proj.bh.fmri.qc]
+checkout = git clone 'https://github.com/CVNRneuroimaging/proj.bh.fmri.qc.git' 'proj.bh.fmri.qc'
