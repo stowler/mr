@@ -4,6 +4,9 @@ jobs = 5
 
 include = cat ~/.config/mr/config.d/*
 
+[$HOME/gitRepos/brainwhere]
+checkout = git clone 'https://github.com/stowler/brainwhere.git' 'brainwhere'
+
 [$HOME/gitRepos/helloFMRI]
 checkout = git clone 'https://github.com/stowler/helloFMRI.git' 'helloFMRI'
 
@@ -21,5 +24,6 @@ checkout = git clone 'https://github.com/CVNRneuroimaging/proj.bc.haylingRedux.g
 
 [$HOME/gitRepos/infrastructure]
 checkout = git clone 'https://github.com/CVNRneuroimaging/infrastructure.git' 'infrastructure'
+
 
 
