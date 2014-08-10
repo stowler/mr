@@ -10,8 +10,12 @@ checkout = git clone 'https://github.com/CVNRneuroimaging/proj.stran.thesis.git'
 [$HOME/gitRepos/proj.mh.cda2.omt]
 checkout = git clone 'https://github.com/CVNRneuroimaging/proj.mh.cda2.omt.git' 'proj.mh.cda2.omt'
 
+[$HOME/gitRepos/proj.bc.haylingRedux]
+checkout = git clone 'https://github.com/CVNRneuroimaging/proj.bc.haylingRedux.git' 'proj.bc.haylingRedux'
+
 [$HOME/gitRepos/helloFMRI]
 checkout = git clone 'https://github.com/stowler/helloFMRI.git' 'helloFMRI'
 
 [$HOME/gitRepos/infrastructure]
 checkout = git clone 'https://github.com/CVNRneuroimaging/infrastructure.git' 'infrastructure'
+
