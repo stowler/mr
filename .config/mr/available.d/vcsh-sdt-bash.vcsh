@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/vcsh-sdt-bash.git]
+checkout = vcsh clone https://github.com/stowler/vcsh-sdt-bash.git vcsh-sdt-bash 
