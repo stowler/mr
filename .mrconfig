@@ -2,9 +2,17 @@
 git_gc = git gc "$@"
 jobs = 5
 
+
+########################
+# VCSH repos:
+########################
+
 include = cat ~/.config/mr/config.d/*
 
+
+########################
 # my repos:
+########################
 
 [$HOME/gitRepos/brainwhere]
 checkout = git clone 'https://github.com/stowler/brainwhere.git' 'brainwhere'
@@ -18,7 +26,11 @@ checkout = git clone 'https://github.com/stowler/stowlerGeneralComputing.git' 's
 [$HOME/gitRepos/stowlerTemplates]
 checkout = git clone 'https://github.com/stowler/stowlerTemplates.git' 'stowlerTemplates'
 
+
+########################
 # CVNR repos:
+########################
+
 [$HOME/gitRepos/infrastructure]
 checkout = git clone 'https://github.com/CVNRneuroimaging/infrastructure.git' 'infrastructure'
 
@@ -38,7 +50,9 @@ checkout = git clone 'https://github.com/CVNRneuroimaging/proj.ag.diss.r21ad.git
 checkout = git clone 'https://github.com/CVNRneuroimaging/proj.bh.fmri.qc.git' 'proj.bh.fmri.qc'
 
 
+########################
 # sourced repos from other authors:
+########################
 
 [$HOME/src/mathiasDotfiles]
 checkout = git clone 'https://github.com/mathiasbynens/dotfiles.git' 'mathiasDotfiles'
