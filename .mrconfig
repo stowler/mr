@@ -20,11 +20,17 @@ checkout = git clone 'https://github.com/stowler/brainwhere.git' 'brainwhere'
 [$HOME/src.mywork.gitRepos/helloFMRI]
 checkout = git clone 'https://github.com/stowler/helloFMRI.git' 'helloFMRI'
 
-[$HOME/gitRepos/stowlerGeneralComputing]
+[$HOME/src.mywork.gitRepos/stowlerGeneralComputing]
 checkout = git clone 'https://github.com/stowler/stowlerGeneralComputing.git' 'stowlerGeneralComputing'
 
 [$HOME/src.mywork.gitRepos/stowlerTemplates]
 checkout = git clone 'https://github.com/stowler/stowlerTemplates.git' 'stowlerTemplates'
+
+[$HOME/src.mywork.gitRepos/levelwiser]
+checkout = git clone 'https://github.com/stowler/levelwiser.git' 'levelwiser'
+
+[$HOME/src.mywork.gitRepos/nitp2014]
+checkout = git clone 'https://github.com/stowler/nitp2014.git' 'nitp2014'
 
 
 ########################
@@ -40,7 +46,7 @@ checkout = git clone 'https://github.com/CVNRneuroimaging/proj.stran.thesis.git'
 [$HOME/src.mywork.gitRepos/proj.mh.cda2.omt]
 checkout = git clone 'https://github.com/CVNRneuroimaging/proj.mh.cda2.omt.git' 'proj.mh.cda2.omt'
 
-[$HOME/gitRepos/proj.bc.haylingRedux]
+[$HOME/src.mywork.gitRepos/proj.bc.haylingRedux]
 checkout = git clone 'https://github.com/CVNRneuroimaging/proj.bc.haylingRedux.git' 'proj.bc.haylingRedux'
 
 [$HOME/src.mywork.gitRepos/proj.ag.diss.r21ad]
@@ -48,6 +54,9 @@ checkout = git clone 'https://github.com/CVNRneuroimaging/proj.ag.diss.r21ad.git
 
 [$HOME/src.mywork.gitRepos/proj.bh.fmri.qc]
 checkout = git clone 'https://github.com/CVNRneuroimaging/proj.bh.fmri.qc.git' 'proj.bh.fmri.qc'
+
+[$HOME/src.mywork.gitRepos/proj.zz.vbm.2014]
+checkout = git clone 'https://github.com/stowler/proj.zz.vbm.2014.git' 'proj.zz.vbm.2014'
 
 
 ###################################################
