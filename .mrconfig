@@ -14,16 +14,16 @@ include = cat ~/.config/mr/config.d/*
 # my repos:
 ########################
 
-[$HOME/gitRepos/brainwhere]
+[$HOME/src.mywork.gitRepos/brainwhere]
 checkout = git clone 'https://github.com/stowler/brainwhere.git' 'brainwhere'
 
-[$HOME/gitRepos/helloFMRI]
+[$HOME/src.mywork.gitRepos/helloFMRI]
 checkout = git clone 'https://github.com/stowler/helloFMRI.git' 'helloFMRI'
 
 [$HOME/gitRepos/stowlerGeneralComputing]
 checkout = git clone 'https://github.com/stowler/stowlerGeneralComputing.git' 'stowlerGeneralComputing'
 
-[$HOME/gitRepos/stowlerTemplates]
+[$HOME/src.mywork.gitRepos/stowlerTemplates]
 checkout = git clone 'https://github.com/stowler/stowlerTemplates.git' 'stowlerTemplates'
 
 
@@ -37,16 +37,16 @@ checkout = git clone 'https://github.com/CVNRneuroimaging/infrastructure.git' 'i
 [$HOME/src.mywork.gitRepos/proj.stran.thesis]
 checkout = git clone 'https://github.com/CVNRneuroimaging/proj.stran.thesis.git' 'proj.stran.thesis'
 
-[$HOME/gitRepos/proj.mh.cda2.omt]
+[$HOME/src.mywork.gitRepos/proj.mh.cda2.omt]
 checkout = git clone 'https://github.com/CVNRneuroimaging/proj.mh.cda2.omt.git' 'proj.mh.cda2.omt'
 
 [$HOME/gitRepos/proj.bc.haylingRedux]
 checkout = git clone 'https://github.com/CVNRneuroimaging/proj.bc.haylingRedux.git' 'proj.bc.haylingRedux'
 
-[$HOME/gitRepos/proj.ag.diss.r21ad]
+[$HOME/src.mywork.gitRepos/proj.ag.diss.r21ad]
 checkout = git clone 'https://github.com/CVNRneuroimaging/proj.ag.diss.r21ad.git' 'proj.ag.diss.r21ad'
 
-[$HOME/gitRepos/proj.bh.fmri.qc]
+[$HOME/src.mywork.gitRepos/proj.bh.fmri.qc]
 checkout = git clone 'https://github.com/CVNRneuroimaging/proj.bh.fmri.qc.git' 'proj.bh.fmri.qc'
 
 
