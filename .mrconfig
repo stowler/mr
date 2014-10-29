@@ -31,7 +31,7 @@ checkout = git clone 'https://github.com/stowler/stowlerTemplates.git' 'stowlerT
 # CVNR repos:
 ########################
 
-[$HOME/gitRepos/infrastructure]
+[$HOME/src.mywork.gitRepos/infrastructure]
 checkout = git clone 'https://github.com/CVNRneuroimaging/infrastructure.git' 'infrastructure'
 
 [$HOME/src.mywork.gitRepos/proj.stran.thesis]
