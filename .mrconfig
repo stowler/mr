@@ -50,9 +50,19 @@ checkout = git clone 'https://github.com/CVNRneuroimaging/proj.ag.diss.r21ad.git
 checkout = git clone 'https://github.com/CVNRneuroimaging/proj.bh.fmri.qc.git' 'proj.bh.fmri.qc'
 
 
-########################
+###################################################
 # sourced repos from other authors:
-########################
+# (sending each to $HOME/src.upstream.gitRepos/)
+###################################################
 
-[$HOME/src/mathiasDotfiles]
+[$HOME/src.upstream.gitRepos/mathiasDotfiles]
 checkout = git clone 'https://github.com/mathiasbynens/dotfiles.git' 'mathiasDotfiles'
+
+[$HOME/src.upstream.gitRepos/vcsh]
+checkout = git clone 'git://github.com/RichiH/vcsh.git' 'vcsh'
+
+[$HOME/src.upstream.gitRepos/myrepos]
+checkout = git clone 'git://myrepos.branchable.com/' 'myrepos'
+
+[$HOME/src.upstream.gitRepos/solarized]
+checkout = git clone 'git://github.com/altercation/solarized.git' 'solarized'
