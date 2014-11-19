@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/vcsh-sdt-iterm2.git]
+checkout = vcsh clone https://github.com/stowler/vcsh-sdt-iterm2.git vcsh-sdt-iterm2
