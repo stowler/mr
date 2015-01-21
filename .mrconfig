@@ -77,3 +77,9 @@ checkout = git clone 'git://myrepos.branchable.com/' 'myrepos'
 
 [$HOME/src.upstream.gitRepos/solarized]
 checkout = git clone 'git://github.com/altercation/solarized.git' 'solarized'
+
+[$HOME/src.upstream.gitRepos/melview]
+checkout = git clone 'https://git.fmrib.ox.ac.uk/fsl/melview.git' 'melview'
+
+[$HOME/src.upstream.gitRepos/pydicom]
+checkout = git clone 'git://github.com/darcymason/pydicom.git' 'pydicom'
