@@ -55,6 +55,9 @@ checkout = git clone 'https://github.com/CVNRneuroimaging/proj.ag.diss.r21ad.git
 [$HOME/src.mywork.gitRepos/proj.bh.fmri.qc]
 checkout = git clone 'https://github.com/CVNRneuroimaging/proj.bh.fmri.qc.git' 'proj.bh.fmri.qc'
 
+[$HOME/src.mywork.gitRepos/proj.bh.volumetrics]
+checkout = git clone 'https://github.com/CVNRneuroimaging/proj.bh.volumetrics.git' 'proj.bh.volumetrics'
+
 [$HOME/src.mywork.gitRepos/proj.zz.vbm.2014]
 checkout = git clone 'https://github.com/stowler/proj.zz.vbm.2014.git' 'proj.zz.vbm.2014'
 
