@@ -93,3 +93,6 @@ checkout = git clone 'git://github.com/darcymason/pydicom.git' 'pydicom'
 
 [${HOME}/src.upstream.gitRepos/ICA-AROMA]
 checkout = git clone 'https://github.com/rhr-pruim/ICA-AROMA.git' 'ICA-AROMA'
+
+[${HOME}/src.upstream.gitRepos/afni]
+checkout = git clone 'https://github.com/afni/afni.git' 'afni'
