@@ -96,3 +96,9 @@ checkout = git clone 'https://github.com/rhr-pruim/ICA-AROMA.git' 'ICA-AROMA'
 
 [${HOME}/src.upstream.gitRepos/afni]
 checkout = git clone 'https://github.com/afni/afni.git' 'afni'
+
+[${HOME}/src.upstream.gitRepos/gnome-terminal-colors-solarized]
+checkout = git clone 'https://github.com/sigurdga/gnome-terminal-colors-solarized.git' 'gnome-terminal-colors-solarized'
+
+[${HOME}/src.upstream.gitRepos/dircolors-solarized]
+checkout = git clone 'https://github.com/seebi/dircolors-solarized.git' 'dircolors-solarized'
