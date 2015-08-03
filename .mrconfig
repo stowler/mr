@@ -106,3 +106,6 @@ checkout = git clone 'https://github.com/sigurdga/gnome-terminal-colors-solarize
 
 [${HOME}/src.upstream.gitRepos/dircolors-solarized]
 checkout = git clone 'https://github.com/seebi/dircolors-solarized.git' 'dircolors-solarized'
+
+[$HOME/src.upstream.gitRepos/github-markdown-toc]
+checkout = git clone 'https://github.com/ekalinin/github-markdown-toc.git' 'github-markdown-toc'
