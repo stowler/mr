@@ -32,6 +32,10 @@ checkout = git clone 'https://github.com/stowler/levelwiser.git' 'levelwiser'
 [$HOME/src.mywork.gitRepos/nitp2014]
 checkout = git clone 'https://github.com/stowler/nitp2014.git' 'nitp2014'
 
+[$HOME/src.mywork.gitRepos/stowlerPreGit]
+checkout = git clone 'https://github.com/stowler/stowlerPreGit.git' 'stowlerPreGit'
+
+
 
 ########################
 # CVNR repos:
