@@ -109,3 +109,6 @@ checkout = git clone 'https://github.com/seebi/dircolors-solarized.git' 'dircolo
 
 [$HOME/src.upstream.gitRepos/github-markdown-toc]
 checkout = git clone 'https://github.com/ekalinin/github-markdown-toc.git' 'github-markdown-toc'
+
+[$HOME/src.upstream.gitRepos/CanlabCore]
+checkout = git clone 'https://github.com/canlab/CanlabCore.git' 'CanlabCore'
