@@ -71,6 +71,9 @@ checkout = git clone 'https://github.com/CVNRneuroimaging/proj.cvnr.qc.fbirn.git
 [${HOME}/src.mywork.gitRepos/proj.bc.intention.denoise]
 checkout = git clone 'https://github.com/CVNRneuroimaging/proj.bc.intention.denoise.git' 'proj.bc.intention.denoise'
 
+[$HOME/src.mywork.gitRepos/proj.jn.cda2]
+checkout = git clone 'https://github.com/CVNRneuroimaging/proj.jn.cda2.git' 'proj.jn.cda2'
+
 
 ###################################################
 # sourced repos from other authors:
