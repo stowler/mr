@@ -77,6 +77,9 @@ checkout = git clone 'https://github.com/CVNRneuroimaging/proj.jn.cda2.git' 'pro
 [$HOME/src.mywork.gitRepos/proj.mh.cda2]
 checkout = git clone 'https://github.com/CVNRneuroimaging/proj.mh.cda2.git' 'proj.mh.cda2'
 
+[$HOME/src.mywork.gitRepos/proj.tmpHayling]
+checkout = git clone 'https://github.com/stowler/proj.tmpHayling' 'proj.tmpHayling'
+
 
 ###################################################
 # sourced repos from other authors:
@@ -118,3 +121,4 @@ checkout = git clone 'https://github.com/ekalinin/github-markdown-toc.git' 'gith
 
 [$HOME/src.upstream.gitRepos/CanlabCore]
 checkout = git clone 'https://github.com/canlab/CanlabCore.git' 'CanlabCore'
+
