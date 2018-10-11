@@ -14,6 +14,10 @@ include = cat ~/.config/mr/config.d/*
 # my repos:
 ########################
 
+
+[$HOME/src.mywork.gitRepos/ManualWMH]
+checkout = git clone 'https://github.com/stowler/ManualWMH' 'ManualWMH'
+
 [$HOME/src.mywork.gitRepos/brainwhere]
 checkout = git clone 'https://github.com/stowler/brainwhere.git' 'brainwhere'
 
